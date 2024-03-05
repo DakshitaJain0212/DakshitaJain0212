@@ -2,7 +2,7 @@
   <img width="800" src="https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ" width="600" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Dakshita Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" wwidth="400" alt="Coding" src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshitajain0212&label=Profile%20views&color=0e75b6&style=flat" alt="dakshitajain0212" /> </p>
 
