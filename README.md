@@ -5,7 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **Devops**
 - 💬 Ask me about **Mern Stack development**
 - 📫 How to reach me **dakshitaj63@gmail.com**
 - 👨‍💻 All of my projects are available at **https://my-portfolio-ivory-alpha-38.vercel.app/**
