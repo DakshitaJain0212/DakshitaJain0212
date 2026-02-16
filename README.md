@@ -41,8 +41,8 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitajain0212&layout=compact&theme=dark" alt=dakshitajain0212 />
+<!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitajain0212&layout=compact&theme=dark" alt=dakshitajain0212 />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dakshitajain0212&show_icons=true&locale=en&theme=dark" alt="dakshitajain0212" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dakshitajain0212&show_icons=true&locale=en&theme=dark" alt="dakshitajain0212" /></p> -->
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshitajain0212&theme=dark" alt="dakshitajain0212" /></p>
