@@ -1,48 +1,129 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Dakshita Jain</h1>
-<!-- <h3 align="center">A passionate Full Stack Developer from India</h3> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshitajain0212&label=Profile%20views&color=0e75b6&style=flat" alt="dakshitajain0212" /> </p>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8533A&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
+</div>
 
-- 💬 Ask me about **Mern Stack development**
-- 📫 How to reach me **dakshitaj63@gmail.com**
-- 👨‍💻 All of my projects are available at **https://my-portfolio-ivory-alpha-38.vercel.app/**
-- ⚡ Fun fact **I am Funny**
+<div align="center">
 
-<div> <a href="https://www.linkedin.com/in/dakshita-jain-0393a1233" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/dakshitajain0212" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:dakshitaj63@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dakshita-jain-0393a1233" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="dakshita-jain-0393a1233" height="30" width="40" /></a><a href="https://www.hackerrank.com/dakshitaj63" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="dakshitaj63" height="30" width="40" /></a><a href="https://www.leetcode.com/dakshita_jain02" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="dakshita_jain02" height="30" width="40" /></a></p>
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║      DAKSHITA JAIN  ·  FULL-STACK DEVELOPER              ║
+║      MERN · React · Node.js · System Design              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+</div>
 
-<h3 align="left">Stars</h3>
-<!-- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitajain0212&layout=compact&theme=dark" alt=dakshitajain0212 />
+<div align="center">
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dakshitajain0212&show_icons=true&locale=en&theme=dark" alt="dakshitajain0212" /></p> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=E8533A&center=true&vCenter=true&width=600&lines=Building+end-to-end+web+experiences.;MERN+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshitajain0212&theme=dark" alt="dakshitajain0212" /></p>
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8533A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshita-jain-0393a1233)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/dakshitajain0212)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C2C2A?style=flat-square&logo=vercel&logoColor=E8533A)](https://my-portfolio-ivory-alpha-38.vercel.app/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-E8533A?style=flat-square&logo=gmail&logoColor=white)](mailto:dakshitaj63@gmail.com)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a1a?style=flat-square&logo=leetcode&logoColor=FFA116)](https://www.leetcode.com/dakshita_jain02)&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=dakshitajain0212&style=flat-square&color=E8533A&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+---
+
+## `$ whoami`
+
+```yaml
+name        : Dakshita Jain
+role        : Full-Stack Developer
+stack       : MERN (MongoDB · Express · React · Node.js)
+learning    : Advanced System Design
+location    : India
+available   : true
+contact     : dakshitaj63@gmail.com
+```
+
+---
+
+## `$ ls ./tech-stack`
+
+<div align="center">
+
+**— FRONTEND —**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**— BACKEND & DATABASE —**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**— LANGUAGES —**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**— TOOLS —**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat ./github-stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dakshitajain0212&show_icons=true&theme=transparent&title_color=E8533A&text_color=2C2C2A&icon_color=E8533A&border_color=E8533A&border_radius=6&hide_border=false" height="170"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshitajain0212&theme=transparent&ring=E8533A&fire=E8533A&currStreakLabel=E8533A&sideNums=2C2C2A&sideLabels=2C2C2A&dates=888780&border=E8533A&border_radius=6" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshitajain0212&layout=compact&theme=transparent&title_color=E8533A&text_color=2C2C2A&border_color=E8533A&border_radius=6&hide_border=false" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   Let's build something great together.                 │
+│   dakshitaj63@gmail.com                                 │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+[![Email Me](https://img.shields.io/badge/SEND_EMAIL-E8533A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshitaj63@gmail.com)
+&nbsp;
+[![View Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-2C2C2A?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-ivory-alpha-38.vercel.app/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8533A&height=100&section=footer" width="100%"/>
+
+</div>
